@@ -1,0 +1,8 @@
+Categoria
+Papelaria
+
+Termo de Busca
+TNT
+
+Descricão
+https://api.whatsapp.com/send?phone=5561992974497

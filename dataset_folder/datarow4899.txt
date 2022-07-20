@@ -1,0 +1,8 @@
+Categoria
+Lumia
+
+Termo de Busca
+Smartphone Microsoft
+
+Descricão
+💻 Caso você ainda não saiba, os plugins (ou complementos) do QGIS funcionam para o programa da mesma forma que os aplicativos funcionam para um Smartphone. Como assim? . 📱 Um Smartphone já tem de forma padrão uma série de recursos, mas podemos adicionar inúmeras funcionalidades extras por meio da instalação dos Apps (aplicativos). . 🌐 Os aplicativos que eu uso no seu Smartphone podem ser diferentes, pelo menos em parte, dos que você usa no seu aparelho. Até pelo fato de cada um ter uma rotina e necessidades no dia a dia. . 🖥 Da mesma forma, o QGIS por padrão já tem recursos para inúmeras demandas na área de Produção de Mapas e Geoprocessamento. . 🗺 Entretanto, os plugins podem adicionar muitas (literalmente milhares de) novas possibilidades de ferramentas para os mais diversos objetivos. Entendeu a ideia? . 📌 Neste post indiquei 3 dos plugis do QGIS que uso com mais frequência. São verdadeiros canivetes suíços, com um amplo leque de recursos. . ✅ Por sinal, os 3 tem tantas ferramentas que criam até novos menus no programa! . 🚨 Fala aqui embaixo pra mim se você já conhecia e usa esses três plugins e quais são os que você mais usa. Combinado?

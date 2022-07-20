@@ -1,0 +1,8 @@
+Categoria
+Cabelo
+
+Termo de Busca
+Intensive -
+
+Descricão
+⛽ What are the Gas fees everyone is talking about? Swipe left 👈 to learn more about Ethereum-related costs.  Think of Gas as the fuel 🛢️ to run applications, contracts, and transactions on the Ethereum network. That “fuel” has a unit of measurement ''Gas'' and also costs some money 💵, in the form of Ether (ETH).  Gas has 3 main goals:  🔒 Protect the network 💥 Avoid spam attacks and overloading 📈 Prevent expensive transactions  However, during the NFT hype, the network was congested and the cost of Gas skyrocketed, reaching $150 per transaction 😱  What are your thoughts about Ethereum Gas fees? Share your view in the comments 👇

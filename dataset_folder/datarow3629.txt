@@ -1,0 +1,8 @@
+Categoria
+alimentos_bebidas
+
+Termo de Busca
+Café Torrado
+
+Descricão
+É um café forte, de excelência e com aftertaste prolongado, e possui blend com predominância arábica e formado por grãos provenientes do Sul de Minas.

@@ -1,0 +1,8 @@
+Categoria
+alimentos_bebidas
+
+Termo de Busca
+Cafeteira,
+
+Descricão
+Algumas de minhas propostas.

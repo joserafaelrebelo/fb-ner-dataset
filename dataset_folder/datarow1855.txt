@@ -1,0 +1,8 @@
+Categoria
+Segurança
+
+Termo de Busca
+Detector E
+
+Descricão
+Você sabia...? O alarme de incêndio sonoro é essencial para a evacuação das pessoas. No entanto, mesmo hoje os erros básicos de projeto que dificultam a funcionalidade desses sistemas continuam a se arrastar. Por que? Ainda existem projetos em que as sirenes estão localizadas apenas ao lado dos hidrantes , sem verificar a conformidade com o nível de potência sonora no dB.  No caso de um hotel, no qual sirenes geralmente são instaladas nos corredores, o que acontece se só instalarmos sirenes nesses pontos? Na NFPA 72, as disposições sobre o 75dB que devem não serão atendidas, quando você deve dar um sinal de alarme para as pessoas que estão dormindo.  A explicação é simples. 6dB é perdido para cada duplicação da distância. Ou seja, em um trecho reto de 8 metros da sirene, 18 dB serão perdidos (veja imagem). Além disso, uma porta fechada envolve uma perda entre 20 e 30 dB, dependendo se é uma porta padrão ou PCF. Em suma, em um hotel, usando apenas sirenes em corredores (sirenes usuais de 100dB aprox), a obrigatoriedade de 75 dB na área da cama não é alcançada. Será necessário usar sirenes individuais nos quartos ou uma melhor distribuição delas. O mesmo acontece em outros prédios, como escritórios ou escolas, nos quais 65dB tem que ser garantido. Por:Debora Arjona  Quer saber mais?   https://lnkd.in/dGQAhrm3  Fonte: #ESSIIF NFPA  NFPA en Español
