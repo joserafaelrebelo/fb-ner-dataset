@@ -1,8 +1,6 @@
 Categoria
-Papelaria
-
-Termo de Busca
-Base Placa
+Livros e Revistas
 
 Descricão
-Tam : 21X16X8
+###
+DESCUBRA PORQUE VOCÊ SE SENTE PERDIDA  Muitas vezes, sentimos que estamos sem direção, perdidas pelos acontecimentos da vida e que não estamos indo para lugar nenhum.  Ou pior ainda, estamos voltando à situações de dor e sofrimento que já vivemos no passado.  Aprenda a tomar as rédeas de tudo o que acontece com você, domine seu amor-próprio e a sua autoestima, e veja uma vida muito melhor acontecer para você.

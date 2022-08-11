@@ -1,8 +1,6 @@
 Categoria
-Automotivo
-
-Termo de Busca
-Turbina
+Eletrônicos
 
 Descricão
-Turbina à base de troca
+###
+As a professional manufacturer of Hi-end speaker and amplifier, we provide one-stop ODM and OEM service from R&D to manufacturing.

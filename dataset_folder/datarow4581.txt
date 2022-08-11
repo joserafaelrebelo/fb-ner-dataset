@@ -1,8 +1,6 @@
 Categoria
-Material de Limpeza
-
-Termo de Busca
-Saco Lixo
+Jogos e Hobbies
 
 Descricão
-CPI - COVID - Relatório final será votado na Câmara de Vereadores na próxima quarta, dia 03/11, as 20 h.  Você concorda que o Relatório deve ser colocado na gaveta? A CPI pode virar pizza?
+###
+Dive into the world of Minecraft! Learn level design and problem-solving while building extraordinary environments. Use custom resource packs to create visually stunning worlds or let your imagination run wild.

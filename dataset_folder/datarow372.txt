@@ -1,8 +1,6 @@
 Categoria
-Automotivo
-
-Termo de Busca
-Corpo de
+Eletrônicos
 
 Descricão
-MULHERES LARGAM NA FRENTE!  Corrida da Alegria, com muita diversão e superação para você e sua família, 1° Etapa Terra que acontecerá no dia 05/06 no Centro Histórico de São Paulo.  A Corrida Mais Feliz está chegando para alegrar o seu dia!
+###
+GERENCIAMENTO DE PONTO ELETRÔNICO PELO CELULAR 100% ONLINE.

@@ -1,8 +1,6 @@
 Categoria
-Mini System
-
-Termo de Busca
-Modem 4G
+Casa e Jardim
 
 Descricão
-Eu posso te dizer por experiência própria que quando a gente está fazendo uma transmissão ao vivo o nosso maior ponto na maioria das vezes é a conexão com a internet.   Eu já frequentei alguns estúdios e alguns sets de transmissão ao vivo que ninguém sabia como a internet funcionava ou que ela gerava algum tipo de problema todos os dias. O estúdio tinha as melhores câmeras do mercado, os melhores microfones, iluminação também de alta qualidade, mas a internet chegava através de um cabo de rede todo amassado e dobrado com os conectores mal feitos e uma oscilação enorme que causa indisponiblidades esporádicas. 🙊  Uma solução que eu comecei a encontrar na época era locar antenas de rádio para que as transmissões tivessem um backup, mas com o tempo eu descobri o Mochilink, que nada mais é que um aparelho que junta várias conexões de 4G e te dá mais estabilidade na conexão.  O Mochilink não é um equipamento barato nem para comprar, nem para alugar. Mas é indispensável principalmente naqueles lugares que você não confia na conexão com a internet, ou simplesmente, não tem nenhuma disponível. Eu já usei o LiveU Solo e também os equipamentos da D-Look.  Existe uma outra solução, muito mais barata, mas que traz alguns desafios, que é utilização de uma antena (ou modem) 4G com um plano de dados de uma operadora da sua confiança. Eu uso o Amplimax da Elsys, que foi recomendado por um seguidor nosso, e faço a junção das conexões com o Speedify. E depois de usar bastante eu posso dizer que é um ótimo custo x benefício pra quem quer oferecer uma internet de backup para os seus clientes de transmissão ao vivo.  E por ai, já pensou em backup de internet? Me conta! #transmissaoaovivo #comofazerlives #antena4g #diretordelives
+###
+Entrega rápida para todo Brasil

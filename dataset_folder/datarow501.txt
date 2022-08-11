@@ -1,8 +1,6 @@
 Categoria
-varejo_moda
-
-Termo de Busca
-Camiseta Logo
+Artigos esportivos
 
 Descricão
-Entrevista com Dr. Eduardo Nóbrega, secretário de Manutenção de Taboão da Serra
+###
+Jiu-Jitsu para Crianças

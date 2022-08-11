@@ -1,8 +1,6 @@
 Categoria
-Capacetes
-
-Termo de Busca
-Pala do
+Livros e Revistas
 
 Descricão
-Live 45  Propostas sobre:  Esporte Assistência Social Cultura e lazer
+###
+A Quarentena de Blender é uma série de aulas GRATUITAS pra você começar a sua jornada e se tornar um jedi do 3D! Tudo isso ao vivo no Youtube e com um programa sem custo e fácil de aprender: o Blender.

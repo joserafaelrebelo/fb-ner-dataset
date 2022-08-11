@@ -1,8 +1,6 @@
 Categoria
-Maquiagem
-
-Termo de Busca
-Iluminador
+Equipamentos e Maquinário
 
 Descricão
-Vocês preferem iluminador líquido ou iluminador em pó?   Siga pra dicas de make 💄😍
+###
+Veja todos os itens do cubo.

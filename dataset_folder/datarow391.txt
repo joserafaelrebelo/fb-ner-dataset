@@ -1,8 +1,6 @@
 Categoria
-Software
-
-Termo de Busca
-Kaspersky
+Eletrônicos
 
 Descricão
-Cibercriminosos estão roubando dinheiro usando um Trojan bancário que imita o suporte ao cliente por telefone. Clique e saiba mais.
+###
+Buscando aliar mobilidade e tecnologia em sua empresa? Conheça a linha de aparelhos Dect da Grandstream. O DP722 é um telefone IP sem fio DECT que permite aos usuários a utilização de sua rede VoIP em todos os ambientes da organização. Suportado pelas estações base VoIP DECT DP750 e DP752 da Grandstream, ele proporciona uma combinação de mobilidade e telefonia com eficiência de desempenho. Com ótimo custo-benefício, permite o uso de até cinco aparelhos DP722 em uma estação base. Cada DP722 suporta o alcance de até 350 metros em ambientes externos (com o DP752) e 50 metros em ambientes internos, com 20 horas de conversa e 250 horas em espera. Ele apresenta um conjunto de recursos avançados, como suporte para até 10 contas SIP por aparelho, áudio Full HD, tela colorida de 1,8 polegadas, conector para fones de 3,5 mm, PTT, viva-voz e muito mais.   Gostou da solução? Entre em contato conosco, temos equipe certificada pela Grandstream

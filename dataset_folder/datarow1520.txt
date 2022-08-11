@@ -1,8 +1,6 @@
 Categoria
-Bonecos
-
-Termo de Busca
-Ron
+Livros e Revistas
 
 Descricão
-@simonelopes.oficial  #ensaio #radiorochdaleonline #fotografia #osasco
+###
+Quer aprender como trabalhar de verdade com DevOps em ambientes Cloud?  Jean Rodrigues, nosso CTO, compartilhou todos os detalhes com Leonardo Ciccone, Senior Database Specialist Solutions Architect.  Além desse conteúdo excelente, teve prática também. Eles implementaram um pipeline CI/CD na AWS.  ⚠ A gravação está liberada por tempo limitado.  Clique em SAIBA MAIS e assista agora.

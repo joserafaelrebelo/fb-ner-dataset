@@ -1,8 +1,6 @@
 Categoria
-Vitaminas & Minerais
-
-Termo de Busca
-Ginseng
+Varejo Alimentício
 
 Descricão
-Pomada Modeladora Matte 70g - Efeito Seco Fixação  Extra Forte! Embalagem premium de metal, ideal para o uso no dia a dia. Pomada desenvolvida com efeito matte, que proporciona um acabamento natural e sem brilho,promovendo fixação e beleza aos cabelos.  Pomada versátil de alta fixação, possui longa duração que preserva a modelagem dos fios mesmo em ambientes com úmidos. Indicada para uso diário, é facilmente removida com shampoo.  Formulada com Extratos de Ginseng, Gengibre e Guaraná. Indicado para qualquer tipo de cabelo. Contém filtro solar específico para cabelos.
+###
+Aula 1 do nosso bolotone (Bolo com sabor de Panetone)  Assista a primeira parte do nosso bolo de Panetone, uma receita simples e fácil para você fazer no seu Natal!

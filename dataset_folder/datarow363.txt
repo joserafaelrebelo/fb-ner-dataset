@@ -1,8 +1,6 @@
 Categoria
-Cabelo
-
-Termo de Busca
-Tio
+Livros e Revistas
 
 Descricão
-Prepare-se para administrar o futuro da TI com o melhor da computação em nuvem. Com Azure você controla mais de 200 produtos e serviços de nuvem.
+###
+O mercado vai precisar de você! O futuro te espera e é preciso se capacitar para ir mais longe. 🤩  Então, não perca mais tempo!  Venha saber mais a respeito de nossos cursos!

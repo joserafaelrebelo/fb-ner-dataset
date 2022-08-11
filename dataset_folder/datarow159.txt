@@ -1,8 +1,6 @@
 Categoria
-Perfumaria
-
-Termo de Busca
-Perfume Paco
+Livros e Revistas
 
 Descricão
-Homens, qual o seu perfume preferido? O mais votado irá receber uma mega promoção nossa!
+###
+Nesta estaremos fazendo uma retrospectiva dos dias de campanha!

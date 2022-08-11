@@ -1,8 +1,6 @@
 Categoria
-Poker
-
-Termo de Busca
-Maleta
+Moda e Vestuário
 
 Descricão
-R$ 99,90
+###
+Lindas peças, várias cores e modelos.

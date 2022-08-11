@@ -1,8 +1,6 @@
 Categoria
-Esoterismo
-
-Termo de Busca
-Baralho Cigano
+Casa e Jardim
 
 Descricão
-Consulta Baralho cigano
+###
+#RenovaLimeira

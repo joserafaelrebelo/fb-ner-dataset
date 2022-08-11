@@ -1,8 +1,6 @@
 Categoria
-Pesca
-
-Termo de Busca
-Kit Pesca
+Casa e Jardim
 
 Descricão
-CONHEÇA UM POUCO MAIS DA MINHA HISTÓRIA!!                  DRA. ADRIANA
+###
+✨_ COMO CALCULAR A QUANTIDADE DE CALCÁRIO POR COVA  ✨_ Quando, por algum motivo, o produtor não conseguir fazer a calagem, antes da implantação do pimental, recomendamos aplicar o calcário nas covas, junto com a terra de enchimento.  👉_ Nesse caso precisamos calcular qual é a dose a ser aplicada em cada cova.  👉_ Os cálculos são feitos em duas etapas:  👉_ Primeiro, calculamos a quantidade de calcário para ser aplicada em 1 hectare.  👉_ Depois, com o resultado obtido, calculamos a quantidade de calcário por cova.  👉_ Vamos supor que a CTC do solo seja de 6,7 cmolc/dm3 e a saturação por bases de 26%  👉_ Fazendo os cálculos chegamos à dose de 2,95 t/ha, ou seja 2.950 kg/ha (não tem problema arredondar para 3 t/ha).  👉_ Com esse resultado vamos agora calcular a quantidade de calcário por cova.  👉_ Para isso precisamos descobrir qual é o volume da cova.  👉_ Supondo que as covas sejam de 0,4 m x 0,4 m

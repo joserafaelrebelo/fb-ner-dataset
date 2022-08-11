@@ -1,8 +1,6 @@
 Categoria
-Veículos de Brinquedo
-
-Termo de Busca
-Submarino
+Livros e Revistas
 
 Descricão
-Conheçam o Nube WEB
+###
+Conversa semanal com a Professora Suzete.

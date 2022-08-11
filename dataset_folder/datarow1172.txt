@@ -1,8 +1,6 @@
 Categoria
-Artes
-
-Termo de Busca
-Scar
+Eletrônicos
 
 Descricão
-Ruy Barbosa
+###
+Fazemos entregas

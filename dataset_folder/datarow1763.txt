@@ -1,8 +1,6 @@
 Categoria
-alimentos_bebidas
-
-Termo de Busca
-Whisky
+Estética e cabelereiros
 
 Descricão
-Se prepara, São Paulo! Hoje tem mais #Amigos20Anos. Ontem foi estouro e, se vai ficar de bobeira, ainda tem um cadinho de ingressos à venda na Livepass. Bora!  Beba com moderação. Não compartilhe com menores de 18 anos. @amigos20anos
+###
+A escova alisadora é a solução para você alisar e escovar seu cabelo em poucos minutos e sem sair de casa! Tecnologia dos maiores salões, dentro da sua casa! Segura, prática e não agride os fios.

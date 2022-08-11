@@ -1,8 +1,6 @@
 Categoria
-Religião
-
-Termo de Busca
-Livro: Campos
+Casa e Jardim
 
 Descricão
-TRECHO DO LIVRO: Um lugar em Deus para viver "Estamos sempre vivendo o presente, ruminando o passado e ansiosos pelo futuro. Frustrados com o ontem, desanimados com o hoje e aflitos pelo amanhã" Pr André Campos. #umlugaremDeusparaviver
+###
+A ABC é referência em credibilidade e profissionalismo. Nosso diferencial é buscar sempre facilitar a vida de quem vai construir ou reformar.

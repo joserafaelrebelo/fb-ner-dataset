@@ -1,8 +1,6 @@
 Categoria
-Juvenil
-
-Termo de Busca
-Alice
+Livros e Revistas
 
 Descricão
-O seu plano Alice ficou ainda melhor.✨  Chegou o BP Mirante: hospital premium da BP, com medicina avançada, especialidades de alta complexidade, profissionais renomados dentro e fora do país, e muito mais. Faça a simulação. 🤩
+###
+Como professor, sempre me preocupei com o aprendizado dos estudantes. A aprendizagem deve ser significativa ao estudante. Ele deve identificar uma aplicação, alguma utilidade para o novo conhecimento que ele adquiriu. Em um mundo cada vez mais digital, em que habilidades e competências diretamente ligadas à tecnologia são requisitadas, pensar em abordagens pedagógicas para atingir tais objetivos é essencial, e conseguimos isso com a Robótica Educacional. A Robótica Educacional vai além da Robótica em si: Engloba pensamento computacional, abstração, lógica, física, mecânica, eletrônica, e muito mais. Veja esse exemplo, simples, trivial, e poderoso: Em uma animação criada pelo próprio estudante, ele utiliza um aparato eletrônico simples, montado em protoboard e com programação via Arduino, utilizando um sensor de inclinação, para fazer o personagem se mover na animação, conforme o controle de inclina. É STEAM na veia! Quer aprender também? Aqui, na InovaEdu, você aprende!  #inovaedutech #steam #robotica #roboticaeducacional #arduino #scratch

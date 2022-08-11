@@ -1,8 +1,6 @@
 Categoria
-Skate
-
-Termo de Busca
-Conjunto Skate
+Livros e Revistas
 
 Descricão
-Conjuntos com Legging, Moletom, tudo do jeitinho que sua princesa gosta
+###
+Entrevista concedida a Felipe Lintz...

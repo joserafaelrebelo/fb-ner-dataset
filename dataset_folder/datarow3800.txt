@@ -1,8 +1,6 @@
 Categoria
-Literatura Estrangeira
-
-Termo de Busca
-Project 1
+Livros e Revistas
 
 Descricão
-Discover every detail of our Roadmap 2022! Great news about the future of the project in this new article.
+###
+>> PROJETO MINEIRO DE DESENVOLVIMENTO - CAP. 6  Nesse capítulo do nosso PMD falo sobre a segurança e a necessidade da integração da Polícia Civil e Militar. Falo da necessidade de se investir nesse setor e de como isso pode ser bom para nosso povo. Assista ao vídeo.

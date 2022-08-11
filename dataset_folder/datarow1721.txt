@@ -1,8 +1,6 @@
 Categoria
-Biografia e Memórias
-
-Termo de Busca
-Música
+Eletrônicos
 
 Descricão
-Como é formado um campo harmônico?  Na imagem acima você analisa todo o processo de formação do campo harmônico.   Possuímos uma escala e a partir desta escala iremos fazer as sobreposições de terça, cada hora começando por uma nota.  Depois, basta analisar a distância entre as 3 notas do acorde, para que você possa dar sua nomenclatura. Por exemplo, no caso de C temos as notas (C E G). Terça maior e quinta justa. Isso significa que é uma tríade maior, ou seja, o acorde será Do Maior.  Já quando começamos pela nota D, chegamos num resultado aonde temos terça menor e quinta justa, o que ocasiona na formação de uma tríade menor: Dm  Campo harmônico é muito mais simples do que você imagina.  Alguma dúvida? Comenta aqui embaixo 👇🏻
+###
+Still training your 1-on-1 clients using email, spreadsheets, and paper forms? 🤔

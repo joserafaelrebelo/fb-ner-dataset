@@ -1,8 +1,6 @@
 Categoria
-Pelúcias
-
-Termo de Busca
-Unicórnio de
+Eletrônicos
 
 Descricão
-Pijama Unicórnio Divertido pra Você e pro Mozão! Nota 4.9 ⭐⭐⭐⭐⭐
+###
+Às vezes a gente traz aqui conteúdos técnicos mais fáceis, outras vezes a gente não consegue fugir de falar de coisas mais cabeçudas.  Então se você gosta de uma coisa mais "nerd", nesse vídeo mostro uma trick onde você pode controlar diversas macros dentro de uma outra macro, facilitando demais a "manutenção" do teu arranjo quando você está lapidando tua música.  Confere aí.

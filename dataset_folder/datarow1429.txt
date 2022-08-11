@@ -1,8 +1,6 @@
 Categoria
-Literatura Estrangeira
-
-Termo de Busca
-Autodesk
+Eletrônicos
 
 Descricão
-✅ Matrículas abertas – Curso Online de AutoCAD 2D e 3D  👨‍💻 Aprenda a criar Figuras, Objetos, Plantas e Projetos PROFISSIONAIS!!!  São mais de 30 videoaulas com todo o passo a passo partindo do zero até o avançado, e fazendo HOJE a sua inscrição você ainda recebe: ➡️ E-book exclusivo com dicas, comandos e figuras cotadas para praticar ➡️ 5 Aulas BÔNUS com projetos arquitetônicos, elétrico, hidráulico, fundações, paginação, incêndio e muito mais...  Certificado Reconhecido que pode ser utilizado em seu currículo como capacitação profissional e horas complementares!  VAGAS LIMITADAS!!! ⌛ 🕑  Clique em SAIBA MAIS e aproveite o preço PROMOCIONAL  ⬇
+###
+#GalaxyWatch4: acompanha o seu ritmo e o seu coração.

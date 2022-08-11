@@ -1,8 +1,6 @@
 Categoria
-Masculino
-
-Termo de Busca
-Boné Nossa
+Livros e Revistas
 
 Descricão
-Você é apaixonado(a) por rodeio? Confira nossa coleção especialmente para você! https://www.sacudidos.com.br/buscar?q=boi
+###
+Baixe nosso kit completo para te ajudar a controlar a rotatividade na sua empresa e torná-la ainda mais atrativa.

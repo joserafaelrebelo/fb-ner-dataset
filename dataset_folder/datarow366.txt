@@ -1,8 +1,6 @@
 Categoria
-alimentos_bebidas
-
-Termo de Busca
-Café Gourmet
+Livros e Revistas
 
 Descricão
-A Café Imóveis vende  Sítio com 7 dormitórios , 5000 m² por R$ 2.650.000 - Quintas da Lagoa - Lagoa Santa/MG.  Lindo Sítio, super bem localizado no condomínio , com paisagismo e acabamento de primeira qualidade. Poço artesiano individual, reservatório para 15 mil litros.  Casa principal: 07 quartos, 04 suítes, sendo 01 master com hidromassagem fino acabamento, Lavabo, banho social, sala para 3 ambientes, 4 varandas.  Garagem coberta para 6 veículos e 08 descoberta. Sauna e espaço para descanso e ducha. Espaço gourmet, cozinha, churrasqueira, forno para pizza e bolo e painel para TV, 02 banheiros, masculino e feminino, piscina, adulto e criança, um anexo coberto para banhista estilo quiosque, espaço para quadra de basquete e academia, viveiro, horta cercada e coberta de tela.  1º pavimento: 03 varandas, 01 delas espaço para jogos, 03 salas, lavabo, 2 quartos, armários embutidos, ampla cozinha montada, armários sob e sobre a pia, fogão , despensa, área de serviço.  2º pavimento: Varandão tendo uma belíssima vista para o por do sol, 05 quartos, 01 home office ou sala de TV, sendo 01 suíte master, hidromassagem, banheiro social. Em anexo, independente, casa de hóspede, tendo 02 suítes.
+###
+Certificação da Melhor Instituição de Ensino da Área.

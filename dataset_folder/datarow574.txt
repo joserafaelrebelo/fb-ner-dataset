@@ -1,8 +1,6 @@
 Categoria
-Autopeças
-
-Termo de Busca
-Caixa Hidráulica
+Eletrônicos
 
 Descricão
-Mecânica geral Reparo de motor caixa Suspensão Direção eletrônica Direção hidráulica Scaner
+###
+Tire suas dúvidas

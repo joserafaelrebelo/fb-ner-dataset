@@ -1,8 +1,6 @@
 Categoria
-alimentos_bebidas
-
-Termo de Busca
-Pipoqueira,
+Artigos esportivos
 
 Descricão
-Onde fica o escritório da da Cegonha Importadora?
+###
+#Notícias: Fabricante de patinetes elétricos Davinci Micromobilidade inaugurou, na última terça-feira (14), sua planta no Polo Industrial de Manaus. Empresa vai fabricar dois produtos. Acesse: https://cutt.ly/AEe1yUS

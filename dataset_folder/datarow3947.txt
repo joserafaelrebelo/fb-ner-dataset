@@ -1,8 +1,6 @@
 Categoria
-Skate
-
-Termo de Busca
-Scooter
+Livros e Revistas
 
 Descricão
-35 eye-opening times people beat the system in ways nobody expected.
+###
+Você sabe como funciona um curso online? Neste vídeo mostro como funciona a plataforma do meu curso de Piano.  Acredito que o curso online é uma ótima forma de ter acesso a um material que antes era difícil de encontrar.  É uma forma de distribuir conhecimento a cada vez mais pessoas. Se quiser saber mais detalhes clica em "Saiba Mais"

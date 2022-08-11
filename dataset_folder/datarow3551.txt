@@ -1,8 +1,6 @@
 Categoria
-Máquina de Lavar e Tanquinho
-
-Termo de Busca
-Lav
+Livros e Revistas
 
 Descricão
-Hoje foi o dia de caminhar pelas ruas de Fazenda Rio Grande e levar as pessoas a campanha da mudança, a campanha da mulher, a campanha que vai dar voz ao povo dessa cidade para o estado do Paraná!
+###
+Um futuro com mais respeito e com oportunidades iguais para todos passa pelo entendimento de que somos todos iguais, não importa a cor da pele. Ter a consciência de que as nossas diferenças não fazem diferença na nossa essência como cidadãos. Como seres humanos!

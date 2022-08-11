@@ -1,8 +1,6 @@
 Categoria
-Brinquedos para Bebê
-
-Termo de Busca
-Copos Divertidos
+Livros e Revistas
 
 Descricão
-Combinando design com funcionalidade, o copo MAM Trainer+ é ideal para o aprendizado do bebê. Possui sistema antivazamento e é fácil de segurar.
+###
+A Sala do Empreendedor concentra serviços com atendimento especializado para estimular a criação de novos negócios. O Programa Eu Posso oferece assistência e inspiração a quem deseja trabalhar por conta própria.
