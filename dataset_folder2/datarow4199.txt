@@ -1,0 +1,6 @@
+Categoria
+Eletrônicos
+
+Descricão
+###
+How many times have you thought you've taken a perfect shot only to find out the image is:   ❌ Blurry ❌ Out of focus  ❌ Lacking sharpness in crucial places   It happens all the time. 😩   And when you try fix it with ""traditional"" tools, end result looks unnatural with haloing and fringing. It's a mess!   Fortunately, we've made an AI-powered tool that looks to fix these decade-long issues! 🙌  Topaz Labs' Sharpen AI turns blurry images into tack-sharp masterpieces that maintain that natural feel. 📷  The tool salvages images you gave up on by utilizing the latest advancements in machine learning.   ✔️Reduce motion blur from shaky cam and objects in movement.  ✔️Map out and reverse lens blur from missed focus  ✔️Soften details on

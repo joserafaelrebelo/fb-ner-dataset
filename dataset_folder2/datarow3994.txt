@@ -1,0 +1,6 @@
+Categoria
+Eletrônicos
+
+Descricão
+###
+Amilcar Brunazzo é engenheiro especialista em segurança de dados, nesta entrevista iremos abordar o sistema eletrônico de votação existente no Brasil e qual seria a melhor opção para torná-lo mais seguro e auditável.

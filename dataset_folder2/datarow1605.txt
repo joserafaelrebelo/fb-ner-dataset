@@ -1,0 +1,6 @@
+Categoria
+Serviços
+
+Descricão
+###
+Mergulhador, como você desenvolve uma REST API hoje?  Pensa comigo...  Você cria o projeto, programa as classes, os controladores, retorna o modelo de representação, pensa no status HTTP mais adequado e vai dando vida para a API, certo?  Mas e se eu te falasse que existe uma outra abordagem para criar REST APIs que vc não deve começar já programando e que em vários casos essa abordagem pode te dar resultados melhores, você acreditaria?  É sobre isso que você vai aprender nesse vídeo.  E eu tenho certeza que você vai se surpreender e no final vai ter conhecimento sobre uma nova técnica que está sendo cada vez mais usada no mercado para desenvolvimento de novas APIs.

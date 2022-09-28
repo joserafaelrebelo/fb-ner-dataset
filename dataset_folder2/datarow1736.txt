@@ -1,0 +1,6 @@
+Categoria
+Eletrônicos
+
+Descricão
+###
+Já pensou... ter o seu controlador MIDI dos sonhos? Ou finalmente ter aquele que você não tem como pagar?  É isso que muitos dos meus alunos fazem!  Alguns economizam na grana construindo controladores por menos de R$100! Enquanto outros fazem obras primas, que vão desde mixers gigantes para o estúdio a controladores totalmente inovadores!  Não acredita? Dá uma olhadinha nos depoimentos que alguns dos nosso alunos deixaram no nosso grupo fechado? Ps: Tem muito mais depoimentos na nossa página!  A verdade é que só depende de você, pois todo conteúdo necessário está dentro do Curso Completo do Fazendo Música com Arduino!  Então, clica aí no botão e bora começar a construir os seus também!

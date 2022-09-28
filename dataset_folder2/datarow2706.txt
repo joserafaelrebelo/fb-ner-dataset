@@ -1,0 +1,6 @@
+Categoria
+Eletrônicos
+
+Descricão
+###
+Sistema operacional: Windows 10 Home Processador: Intel Core i7 10750H Placa de vídeo: Nvidia GeForce RTX 2060 Memória RAM: 16 GB Armazenamento: 512 GB em SSD Tela: 15,6 polegadas Full HD (1920x1080) Webcam: resolução HD (720p) Conexões: 3x USB 3.2, USB-C 3.2, HDMI, mini DisplayPort, RJ 45 Gigabit Ethernet e saída de fone de ouvido (3,5 mm) Peso: 2,2 kg Dimensões: 36,34 x 25,5 x 2,29 cm Cor: preto

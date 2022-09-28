@@ -1,0 +1,6 @@
+Categoria
+Artesanato
+
+Descricão
+###
+Como texturizar blocos complexos corretamente no Sketchup usando o Vray
